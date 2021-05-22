@@ -48,7 +48,7 @@ void quicksort(int a[], int start, int end)
 
 int main()
 {
-    int a[] = { 3,44,38,5,47,15,36,26,27,2,46,4,19,50,48 };
+    int a[] = {6, -3, 5, 1, 9, 8, 3, 2, -6 };
     int n = sizeof(a) / sizeof(a[0]);
 
     quicksort(a, 0, n - 1);
