@@ -1,4 +1,4 @@
-# Quicksort and-Random Quicksort
+# Quicksort and Random Quicksort
 
 This repositry contains an implementation of the **Quicksort** and **Randomized Quicksort** sorting algorithms.
  
